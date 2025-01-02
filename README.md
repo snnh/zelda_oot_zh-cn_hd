@@ -10,7 +10,11 @@ The Legend of Zelda related trademarks and copyrights are owned by Nintendo.**
 s-nnh&壕梧熠熠&林瓶鱼&小王-倾城&浅蓝小鱼  
 
 ### 安装方法 Installation method：
-将文件夹内的所有文件复制到游戏的自定义纹理文件夹内。  
+1.下载release内的文件。   
+Download the files within the release.  
+2.解压文件。   
+Extract the file.
+3.将文件夹内的所有文件复制到游戏的自定义纹理文件夹内。  
 Copy all files in the folder to the game's custom texture folder.
 
 ### 更新日志 Update log：
