@@ -24,8 +24,8 @@ v1.0.0：初版发布。First edition released.
 欢迎有能力者加入，共同完善该项目。  
 Welcome capable individuals to join and improve the project together.   
 
-有问题可以到B站视频下留言或提issue。  
-If you have any questions, please leave a message in Bilibili video or raise an issue.
+有问题可以到B站视频（BV1cprxYJE6j）下留言或提issue。  
+If you have any questions, please leave a message in Bilibili video （BV1cprxYJE6j）or raise an issue.
 
 本项目完全**免费**，不包含任何形式的盈利行为，同时**不接受捐赠**。请遵守**任天堂**的相关版权规定和**GPLV3**协议。   
 This project is completely **free**, does not include any form of profit-making activities, and **does not accept donations**. Please comply with **Nintendo**'s relevant copyright regulations and the **GPLV3** agreement.
