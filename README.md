@@ -18,6 +18,7 @@ Extract the file.
 Copy all files in the folder to the game's custom texture folder.
 
 ### 更新日志 Update log：
+v1.1.1: 1.重绘乐谱相关UI；2.将更多纹理统一风格。1. Redraw the music score related UI; 2. Unify more textures in style.
 v1.0.0：初版发布。First edition released.  
 
 ### 其他信息 Other information：
